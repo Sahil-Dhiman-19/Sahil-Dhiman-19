@@ -15,7 +15,7 @@ I am a passionate **web developer** and **BCA graduate**, always eager to learn 
 
 ---
 
-⚡ EXPERIENCE
+## ⚡ EXPERIENCE
 - **Turtle Mark** | UI/UX Designer | April 2023 - Sep 2024, Rishikesh, UK
   - Build clean and user-friendly interfaces on figma software, designing wireframes and interactive prototypes to bring ideas to life.
   - Worked closely with developers and other designers to ensure the designs meet user needs and aligned with project objectives.
